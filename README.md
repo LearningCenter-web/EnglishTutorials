@@ -1,6 +1,6 @@
 # Course Details
 
-**Course Name:** English Classes 
+**Course Name:** English Classes
 **Price:** $99.99  
 **Description:**  
 This course provides comprehensive training on the subject matter. It includes multiple video modules, resources, and assignments to enhance learning.
