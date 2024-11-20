@@ -1,8 +1,12 @@
-# Course Title: Data Structures and Algorithms
+# Course Details
 
-## Course Overview
-This course introduces you to the fundamental concepts of Data Structures and Algorithms.
+**Course Name:** [Course Name]  
+**Price:** $99.99  
+**Description:**  
+This course provides comprehensive training on the subject matter. It includes multiple video modules, resources, and assignments to enhance learning.
 
-- **Video1:** VID_20210524_103807.mp4
-- **Description1:** Overview of data structures. Why data structures are important.
-- **Duration1:** 10 minutes.
+**Modules:**
+1. **Folder1**: Introduction to the subject.
+2. **Folder2**: Advanced topics in the subject.
+3. **LabWork**: Practical assignments and projects.
+
