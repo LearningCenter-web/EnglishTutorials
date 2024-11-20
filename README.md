@@ -1,3 +1,4 @@
+---
 
 ### **Course Title: Data Structures and Algorithms**
 
@@ -13,7 +14,7 @@ This course introduces you to the fundamental concepts of Data Structures and Al
 ---
 
 #### **Module 1: Introduction to Data Structures**
-- **Video:** - https://github.com/LearningCenter-web/EnglishTutorials/blob/main/VID_20210524_103807.mp4
+- **Video:** [What Are Data Structures?](https://raw.githubusercontent.com/LearningCenter-web/EnglishTutorials/main/VID_20210524_103807.mp4)
 - **Description:**
   - Overview of data structures.
   - Why data structures are important.
@@ -52,6 +53,3 @@ This course introduces you to the fundamental concepts of Data Structures and Al
   3. Click the `Raw` button on the file page.
   4. Copy the raw file link (e.g., `https://raw.githubusercontent.com/LearningCenter-web/EnglishTutorials/main/VID_20210524_103807.mp4`).
 
-
-
-By structuring the `README.md` file in this way, your application can easily parse and display the content (e.g., videos, PDFs, or other media) inline, providing a better user experience.
