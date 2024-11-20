@@ -15,7 +15,7 @@ This course introduces you to the fundamental concepts of Data Structures and Al
 ---
 
 #### **Module 1: Introduction to Data Structures**
-- **Video:** [What Are Data Structures?](video-link)
+- **Video:** [What Are Data Structures?]((https://github.com/LearningCenter-web/EnglishTutorials/blob/main/VID_20210524_103807.mp4))
 - **Content:**
   - Overview of data structures.
   - Why data structures are important.
