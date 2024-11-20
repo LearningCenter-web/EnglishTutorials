@@ -11,6 +11,6 @@ This course introduces you to the fundamental concepts of Data Structures and Al
 - **Duration:** 10 minutes.
 
 ### Module 2: Arrays
-- **Video:** Array Basics
+- **Video:** VID_20210524_103807.mp4
 - **Description:** Definitions and key concepts related to arrays. Examples and use cases.
 - **Duration:** 12 minutes.
