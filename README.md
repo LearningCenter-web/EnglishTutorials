@@ -21,17 +21,26 @@ _No content available for this module._
 ### Module 2
 Content explaining advanced topics.
 
-### Resources
-Additional learning resources.
-
 ## Images
-- image1.png
-- image2.jpg
+
+1. **Cover Image**  
+   cover-image.png
+
+2. **Sample Diagram**  
+   sample-diagram.jpg
 
 ## Documents
-- doc1.pdf
-- doc2.docx
+
+1. **Syllabus Document**  
+   syllabus.docx
+
+2. **Assignment Guidelines**  
+   assignment-guidelines.pdf
 
 ## PDFs
-- syllabus.pdf
-- assignments.pdf
+
+1. **Full Course PDF**  
+   full-course.pdf
+
+2. **Reference Material**  
+   reference-material.pdf
