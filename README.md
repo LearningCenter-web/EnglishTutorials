@@ -1,46 +1,13 @@
-# Course Details
+# Course Name: English Tutorials
 
-**Course Name:** Intro to Programming  
-**Teacher:** John Doe  
-**Description:** A beginner-friendly course on programming basics.  
-**Price:** $99.99  
+## Course Details
+- **Course Price:** $50
+- **Course Description:** Learn English with our comprehensive tutorials covering grammar, vocabulary, and conversational skills. Ideal for beginners and advanced learners.
 
-## Videos
+## Steps to Complete the Course
+1. Enroll in the course by adding it to your cart.
+2. Access the course materials after purchase.
+3. Complete all modules and exercises provided in the course.
+4. Submit your final assignment to receive a certificate of completion.
 
-1. **Introduction Video**  
-   VID_20210524_103807.mp4
-
-2. **Getting Started**  
-   VID-20210629-WA0054.mp4
-
-## Modules
-
-### Module 1
-_No content available for this module._
-
-### Module 2
-Content explaining advanced topics.
-
-## Images
-
-1. **Cover Image**  
-   cover-image.png
-
-2. **Sample Diagram**  
-   sample-diagram.jpg
-
-## Documents
-
-1. **Syllabus Document**  
-   syllabus.docx
-
-2. **Assignment Guidelines**  
-   assignment-guidelines.pdf
-
-## PDFs
-
-1. **Full Course PDF**  
-   full-course.pdf
-
-2. **Reference Material**  
-   reference-material.pdf
+> Note: Make sure to track your progress using the "Progress Tracker" tool in your dashboard.
