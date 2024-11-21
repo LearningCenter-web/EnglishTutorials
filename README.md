@@ -1,5 +1,9 @@
 # Course Details
 
+**Course Name:** Intro to Programming  
+**Teacher:** John Doe  
+**Description:** A beginner-friendly course on programming basics.  
+**Price:** $99.99  
 
 ## Videos
 
